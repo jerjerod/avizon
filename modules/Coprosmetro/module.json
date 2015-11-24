@@ -1,0 +1,15 @@
+{
+    "name": "Coprosmetro",
+    "alias": "coprosmetro",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Coprosmetro\\Providers\\CoprosmetroServiceProvider"
+    ],
+    "aliases":{},
+    "files": [
+        "start.php"
+    ]
+}
